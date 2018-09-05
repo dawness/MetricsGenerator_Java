@@ -16,7 +16,7 @@ Metrics generator
   * -- server.address=localhost
   
 * -- metrics.config  : defines the behavior of the application. This file contains an array of json elements, each entry 
- contains the following 3 elements
+ contains the following 4 elements
    * -- path : the REST endpoint for this set of metrics
    * -- payload : the metrics name and value( default to 0). This a json string and can contain n number of metrics.
    * -- metricType : the metric type to be used ( currently supports counter and gauge). 
