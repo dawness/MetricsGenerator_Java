@@ -70,13 +70,6 @@ import java.util.stream.Collectors;
 	    }
 
 	    
-	    public static void main(String[] args) {
-	    	
-	    	String str="news";
-	    	str=str.substring(0,3);
-	    	System.out.println(str);
-	    	
-	    }
 	    
 	 /*   	String payLoad= "\"FailureRateDeviceAssetClass.STB-XG2V2.Linear.gauge.xuaMediaFailed\": 0, \"FailureRateDeviceAssetClass.STB-Xg1.Linear.gauge.xuaMediaOpened\": 0";, 	   
 	    List<String> list =new ArrayList<>();
@@ -97,7 +90,7 @@ import java.util.stream.Collectors;
 	 
 
 
-	    }
+	    
 
 	    
 	 
