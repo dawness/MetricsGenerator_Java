@@ -1,6 +1,6 @@
 # eclipse project file
 .settings/
 .classpath
-.class
-target/
+#.class
+# target/
 .project
