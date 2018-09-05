@@ -1,0 +1,29 @@
+[
+{ "path":"getCounterConstant" ,
+"payLoad":"\"ushus\": 0,\"Sajeev\":0" ,
+ "metricType" :"counter",
+  "metricValue": "Constant 20"
+ },
+ { "path":"getCounterRandom",
+"payLoad":"asdasfsdgdf",
+ "metricType" :"counter",
+  "metricValue": "Random"
+ },
+ { "path":"getGaugeRandom",
+"payLoad":"asdasfsdgdf",
+ "metricType" :"gauge",
+  "metricValue": "Random"
+ },
+ { "path":"getGaugeConstant",
+"payLoad":"asdasfsdgdf",
+ "metricType" :"gauge",
+  "metricValue": "constant 100"
+ },
+ { "path":"getTest",
+"payLoad":"asdasfsdgdf",
+ "metricType" :"counter",
+  "metricValue": "Random"
+ }
+ 
+ ]
+ 
